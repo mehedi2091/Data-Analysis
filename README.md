@@ -6,4 +6,4 @@
 </div>
 
 
-![Drew Feig (6)](https://github.com/user-attachments/assets/146ede4d-8475-41a7-88f0-a7647617be43)
+![Drew Feig (8)](https://github.com/user-attachments/assets/72d3506e-adac-45d0-99c0-bb688686a14a)
