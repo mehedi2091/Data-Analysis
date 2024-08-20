@@ -9,7 +9,7 @@
 ![Drew Feig (8)](https://github.com/user-attachments/assets/72d3506e-adac-45d0-99c0-bb688686a14a)
 
 
-Here are the README.md paragraph points corresponding to each of the three images:
+Here are the points corresponding to each of the images:
 
 ### Database Product Items.png: Database Table Overview
 - **Description:** This image provides a snapshot of the database tables within a MySQL environment. It shows various tables related to different aspects of a project, such as admissions, clients, blogs, and course contents.
