@@ -11,17 +11,17 @@
 
 Here are the points corresponding to each of the images:
 
-### Database Product Items.png: Database Table Overview
+### 😬 Database Product Items.png: Database Table Overview 😬
 - **Description:** This image provides a snapshot of the database tables within a MySQL environment. It shows various tables related to different aspects of a project, such as admissions, clients, blogs, and course contents.
 - **Purpose:** To provide a visual reference for the structure and organization of the database tables, including information about row counts, storage engines (InnoDB), and character set (utf8mb4_unicode_ci).
 - **Usage:** This can be used as a guide for developers or database administrators to understand the existing database structure and plan for schema modifications or optimizations.
 
-### Database Architecture.png: Database Migration Records
+### 😬 Database Architecture.png: Database Migration Records 😬
 - **Description:** This image displays the migration records table, which lists the various migrations applied to the database over time. Each migration is recorded with an ID, app name, migration name, and timestamp of when it was applied.
 - **Purpose:** To document the history of database schema changes, making it easier for developers to track changes, manage database versions, and troubleshoot any issues related to database migrations.
 - **Usage:** This serves as a reference for developers to understand the sequence of migrations and ensure that the database schema is consistent with the application's codebase.
 
-### Database Product Items.png: Product Data Overview
+### 😬 Database Product Items.png: Product Data Overview 😬
 - **Description:** This image showcases a table containing product data, including fields like product ID, title, selling price, discount price, description, brand, stock status, and associated images.
 - **Purpose:** To present a clear overview of the product catalog stored in the database, which is crucial for managing e-commerce functionalities such as displaying products, handling inventory, and processing sales.
 - **Usage:** This table can be utilized by developers and business analysts to verify product information, ensure data accuracy, and make decisions regarding product management and pricing strategies.
